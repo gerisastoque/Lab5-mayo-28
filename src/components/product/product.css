@@ -1,0 +1,27 @@
+.card {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-items: center;
+	width: 25rem;
+	height: auto;
+}
+
+.image {
+	width: 10rem;
+	height: 10rem;
+	padding: 2rem;
+}
+.info {
+	font-size: 1rem;
+}
+.button {
+	background-color: black;
+	color: white;
+	font-size: small;
+	border: none;
+	border-radius: 10px;
+	align-items: center;
+	justify-items: center;
+	width: 10rem;
+}
